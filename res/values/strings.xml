@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sarf Tester</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="startQuiz">Start Quiz</string>
+    <string name="mujarrad">3 Root Letters (Mujarrad)</string>
+    <string name="mazeed">3 Root Letters + Extra (Mazeed)</string>
+    <string name="ok">Ok</string>
+
+    <string-array name="quizTypes_labels">
+		<item>Details to Conjugation</item>
+		<item>Conjugations to Details</item>
+		<item>Maadi to Mudaari</item>
+		<item>Mudaari to Maadi</item>
+		<item>Verb to Definition</item>
+		<item>Definition to Verb</item>
+		<item>Random</item>
+    </string-array>
+
+    <string name="title_activity_quiz">QuizActivity</string>
+
+    <string name="selected_quiz">Selected Quiz</string>
+
+    <string name="show_answer">Show Answer</string>
+
+    <string name="next_question">Next Question</string>
+
+</resources>
