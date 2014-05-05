@@ -1,4 +1,9 @@
 package org.bhakhrani.sarf.view;
+
+import javax.xml.bind.annotation.XmlRootElement;
+
+
+@XmlRootElement
 public class FlashCard 
 {
 	private String question;
